@@ -1,2 +1,3 @@
 # Insurance-Prediction
-Prediction of Insurance amount on the basis of age
+Prediction of Insurance amount on the basis of age using LinearRegression
+
